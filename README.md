@@ -36,6 +36,9 @@ A YOLOv8-based AI solution for detecting faces in real-time. This system is desi
 - Example detections are saved as videos with annotated bounding boxes.
 - Performance metrics (e.g., confusion matrix and results.csv) are generated after training.
 
+## Prediction Accuracy
+- The model achieved an accuracy of approximately 89.4% based on the confusion matrix.
+
 ## Tested Video Result
 View an example of the tested video output here:  
 [Download Tested Video](https://drive.google.com/file/d/152Bky8uulnQoTyM-FHJC4kMDZ6ARdlsn/view?usp=sharing)
